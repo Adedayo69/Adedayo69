@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is __*Adedayo*__, but you can also call me **Dayo**. <br />
+
+I am presently learning to become a Cloud/DevOps Engineer.
+
 <!--
 **Adedayo69/Adedayo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
